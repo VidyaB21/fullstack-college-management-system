@@ -58,51 +58,6 @@ nexus-university/
 └── README.md
 ```
 
----
-
-# Installation
-
-## Clone Repository
-
-```bash
-git clone https://github.com/yourusername/nexus-university-management-system.git
-```
-
----
-
-# Install Frontend Dependencies
-
-```bash
-npm install
-```
-
----
-
-# Install Backend Dependencies
-
-```bash
-cd nexus-backend
-npm install
-```
-
----
-
-# Run Frontend
-
-```bash
-npm start
-```
-
----
-
-# Run Backend
-
-```bash
-node server.js
-```
-
----
-
 # Ports Used
 
 | Service | Port |
